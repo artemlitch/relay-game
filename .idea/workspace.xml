@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b6edc8-d068-4857-8127-b4bcc65d1b5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/city.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/room.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player.js" afterPath="$PROJECT_DIR$/player.js" />
-    </list>
+    <list default="true" id="77b6edc8-d068-4857-8127-b4bcc65d1b5e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,7 +19,7 @@
           <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1051">
+                <state relative-caret-position="150">
                   <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="56" />
                   <folding />
                 </state>
@@ -205,12 +199,12 @@
       <workItem from="1522878521333" duration="8069000" />
       <workItem from="1522946646763" duration="3871000" />
       <workItem from="1523033869348" duration="1011000" />
-      <workItem from="1523125005491" duration="4242000" />
+      <workItem from="1523125005491" duration="4423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23564000" />
+    <option name="totallyTimeSpent" value="23745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -410,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1051">
+        <state relative-caret-position="150">
           <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="56" />
           <folding />
         </state>
